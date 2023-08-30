@@ -4,4 +4,3 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,cloudflare,netlify,replit,raspberrypi,discord,vscode,github" />
 </p>
-<i>ps, <a href="https://github.com/DeveroonieBOT">@DeveroonieBOT</a> is owned by me</i>
