@@ -4,3 +4,4 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,cloudflare,netlify,replit,raspberrypi,discord,vscode,github" />
 </p>
+![](https://komarev.com/ghpvc/?username=Deveroonie&color=green)
