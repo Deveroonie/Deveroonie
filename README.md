@@ -3,5 +3,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Deveroonie&hide=prs&theme=synthwave"></p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,cloudflare,netlify,replit,raspberrypi,discord,vscode,github" />
+    <img src="https://komarev.com/ghpvc/?username=Deveroonie&style=for-the-badge">
 </p>
-![](https://komarev.com/ghpvc/?username=Deveroonie&color=green)
