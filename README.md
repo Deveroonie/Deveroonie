@@ -3,5 +3,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Deveroonie&hide=prs&theme=midnight-purple"></p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,cloudflare,netlify,vercel,raspberrypi,discord,vscode,github" /> <br><br />
-    <img src="https://komarev.com/ghpvc/?username=Deveroonie&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Deveroonie&style=for-the-badge" style="display: none;"> <!-- Silently track visits -->
 </p>
